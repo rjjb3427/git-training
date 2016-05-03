@@ -1,6 +1,8 @@
 # Git
 
-Training / Git
+>_[Training](https://github.com/simplonco/training) / Git_
+
+## Resources
 
 * Git et GitHub (Simplonline) http://simplonline.co/dashboard/partages-formateurs/242-semaine-1-git-et-github
 * 15min to Learn Git https://try.github.io
