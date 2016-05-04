@@ -10,5 +10,7 @@
 * Git Pro Book http://git-scm.com/book/en/v2
 * https://atom.io/packages/travis-ci-status + beautifer
 * Take the time to fill your GitHub profile: https://github.com/settings/profile
-* If you have a "This branch has conflicts that must be resolved" on the merge of a GitHub Pull-request, you can read that: https://help.github.com/articles/syncing-a-fork/ [wink] !
+* If you have a "This branch has conflicts that must be resolved" on the merge of a GitHub Pull-request, you can read that: https://help.github.com/articles/syncing-a-fork/ !
 * https://guides.github.com/features/mastering-markdown/
+
+_To be continued.._
