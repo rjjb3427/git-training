@@ -2,6 +2,8 @@
 
 >_[Training](https://github.com/simplonco/training) / Git_
 
+![Git](http://blog.emfields.net/wp-content/uploads/2015/02/git-+-github-logo.jpg)
+
 ## Resources
 
 * Git et GitHub _(Simplonline)_ http://simplonline.co/dashboard/partages-formateurs/242-semaine-1-git-et-github :fr:
