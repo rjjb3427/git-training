@@ -16,7 +16,7 @@
 
 * Take the time to fill your GitHub profile: https://github.com/settings/profile
 
-### Branch conflict
+### Branch Conflict
 
 * If you have a _"This branch has conflicts that must be resolved"_ on the merge of a GitHub Pull-request, you can read that: https://help.github.com/articles/syncing-a-fork/ ! :uk:
 
