@@ -28,4 +28,6 @@
 
 `git config --global core.editor gedit` will help you, using gedit to write commit messages :smile:
 
+https://docs.google.com/document/d/1s_NNA6nkThrp5ZCpG4ztdF-A5gcHJBRaU86LLxKG8Ig
+
 _To be continued.._
