@@ -24,6 +24,8 @@
 
 * https://guides.github.com/features/mastering-markdown/ :uk:
 
-_To be continued.._
+## Default Editor
 
-`git config --global core.editor gedit` will help you, using gedit to write commit messages :slightly_smiling_face:
+`git config --global core.editor gedit` will help you, using gedit to write commit messages :smile:
+
+_To be continued.._
