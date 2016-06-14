@@ -30,4 +30,6 @@
 
 https://docs.google.com/document/d/1s_NNA6nkThrp5ZCpG4ztdF-A5gcHJBRaU86LLxKG8Ig
 
+https://github.com/git-tips/tips
+
 _To be continued.._
