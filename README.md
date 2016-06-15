@@ -4,6 +4,13 @@
 
 ![Git](git.png)
 
+## First, `clone` the repository
+
+```shell
+git clone https://github.com/simplonco/git-training.git
+firefox git-training/index.html
+```
+
 ## Resources
 
 * Git et GitHub _(Simplonline)_ http://simplonline.co/dashboard/partages-formateurs/242-semaine-1-git-et-github :fr:
@@ -28,8 +35,10 @@
 
 `git config --global core.editor gedit` will help you, using gedit to write commit messages :smile:
 
+### Mementos
+
 https://docs.google.com/document/d/1s_NNA6nkThrp5ZCpG4ztdF-A5gcHJBRaU86LLxKG8Ig
 
-https://github.com/git-tips/tips
+> https://github.com/git-tips/tips
 
 _To be continued.._
