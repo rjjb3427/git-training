@@ -2,7 +2,7 @@
 
 >_[Training](https://github.com/simplonco/training) / Git_
 
-![Git](http://blog.emfields.net/wp-content/uploads/2015/02/git-+-github-logo.jpg)
+![Git](git.png)
 
 ## Resources
 
