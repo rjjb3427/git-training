@@ -19,6 +19,9 @@ firefox git-training/index.html
 * Git Pro Book http://git-scm.com/book/en/v2 :fr: 
 * https://atom.io/packages/travis-ci-status + beautifer
 
+## Complete tutorial
+* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
 ### GitHub Profile
 
 * Take the time to fill your GitHub profile: https://github.com/settings/profile
