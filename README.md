@@ -1,13 +1,13 @@
 # Git
 
->_[Training](https://gitlab.com/simplon-co/training) / Git_
+>_[Training](https://github.com/simplonco/training) / Git_
 
 ![Git](git.png)
 
 ## First, `clone` the repository
 
 ```shell
-git clone https://gitlab.com/simplon-co/git-training.git
+git clone https://github.com/simplonco/git-training.git
 firefox git-training/index.html
 ```
 
