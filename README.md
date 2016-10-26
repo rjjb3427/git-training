@@ -11,6 +11,10 @@ git clone https://github.com/simplonco/git-training.git
 firefox git-training/index.html
 ```
 
+## Courses
+
+* `pdf` [Using Git in Team](https://github.com/simplonco/git-training/blob/master/presentation_pdf/git_2_pdf.pdf) :gb:
+
 ## Resources
 
 * Git et GitHub _(Simplonline)_ http://simplonline.co/dashboard/partages-formateurs/242-semaine-1-git-et-github :fr:
@@ -19,30 +23,30 @@ firefox git-training/index.html
 * Git Pro Book http://git-scm.com/book/en/v2 :fr: :uk:
 * https://atom.io/packages/travis-ci-status + beautifer
 
-## Complete tutorial
+#### Complete tutorial
+
 * https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 
-### GitHub Profile
+#### GitHub Profile
 
 * Take the time to fill your GitHub profile: https://github.com/settings/profile
 
-### Branch Conflict
+#### Branch Conflict
 
 * If you have a _"This branch has conflicts that must be resolved"_ on the merge of a GitHub Pull-request, you can read that: https://help.github.com/articles/syncing-a-fork/ ! :uk:
 
-### Mastering Markdown
+#### Mastering Markdown
 
 * https://guides.github.com/features/mastering-markdown/ :uk:
 
-### Default Editor
+#### Default Editor
 
 `git config --global core.editor gedit` will help you, using gedit to write commit messages :smile:
 
-### Mementos
+#### Mementos
 
-https://docs.google.com/document/d/1s_NNA6nkThrp5ZCpG4ztdF-A5gcHJBRaU86LLxKG8Ig
-
-> https://github.com/git-tips/tips
+> * https://docs.google.com/document/d/1s_NNA6nkThrp5ZCpG4ztdF-A5gcHJBRaU86LLxKG8Ig
+> * https://github.com/git-tips/tips
 
 
 _To be continued.._
