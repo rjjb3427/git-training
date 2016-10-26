@@ -17,11 +17,11 @@ firefox git-training/index.html
 
 ## Resources
 
-* Git et GitHub _(Simplonline)_ http://simplonline.co/dashboard/partages-formateurs/242-semaine-1-git-et-github :fr:
 * 15min to Learn Git https://try.github.io :fr: :uk:
+* **Git Pro Book http://git-scm.com/book/en/v2 :fr: :uk:**
+* Git et GitHub _(Simplonline)_ http://simplonline.co/dashboard/partages-formateurs/242-semaine-1-git-et-github :fr:
 * Aide-Mémoire Git https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf :uk:
-* Git Pro Book http://git-scm.com/book/en/v2 :fr: :uk:
-* https://atom.io/packages/travis-ci-status + beautifer
+* Atom plugins: https://atom.io/packages/travis-ci-status + https://atom.io/packages/atom-beautify
 
 #### Complete tutorial
 
