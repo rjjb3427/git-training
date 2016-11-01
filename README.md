@@ -13,7 +13,7 @@ firefox git-training/index.html
 
 ## Courses
 
-* `pdf` [Using Git in Team](https://github.com/simplonco/git-training/blob/master/PDF/git_2.pdf) :gb:
+* `pdf` [Using Git in Team](https://github.com/simplonco/git-training/blob/master/courses/git_2.pdf) :gb:
 
 ## Resources
 
